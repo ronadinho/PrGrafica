@@ -1,0 +1,2 @@
+# PrGrafica
+Practicas Info Gráfica
